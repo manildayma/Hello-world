@@ -1,2 +1,3 @@
 # hello-world
-learning git
+I am new here and going through guide to learn how github works.
+
